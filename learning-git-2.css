@@ -4,7 +4,7 @@ $color-main: #1e272e;
 $font-text: 'Montserrat', sans-serif;
 
    
- *, *::before, *::after {
+*, *::before, *::after {
 	box-sizing: border-box;
 }
 
@@ -18,20 +18,18 @@ body {
     line-height: 1.7;
 }
 
-    .container {
-        max-width: 1140px;
-        margin: 0 auto;
-        padding: 0 20px;
-    }
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
         
-    section {
-        padding: 108px 0;
-    }
+section {
+    padding: 108px 0;
+}
 
-    /* Intro */
+/* Intro */
     
-    .intro {
-        background: #fff;
-    }
-    
-        
+.intro {
+    background: #fff;
+}
