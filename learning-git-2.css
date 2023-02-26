@@ -33,3 +33,7 @@ section {
 .intro {
     background: #fff;
 }
+
+h1, h2 {
+    font-variant: small-caps; 
+}
